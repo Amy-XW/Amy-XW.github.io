@@ -1,0 +1,4 @@
+theme: jekyll-theme-architect
+name: Amy
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
